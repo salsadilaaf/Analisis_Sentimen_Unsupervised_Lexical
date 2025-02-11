@@ -1,0 +1,2 @@
+# salsadilaaf-Analisis_Sentimen_Unsupervised_Lexical
+Analisis Sentimen Review Shopee dengan Metode Unsupervised Lexical
